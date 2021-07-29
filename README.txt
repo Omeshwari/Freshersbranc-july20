@@ -1,3 +1,6 @@
-This Assignment contains committing HTML, CSS and JavaScript assignments into GIT.
+This Assignments contains committing HTML, CSS and JavaScript assignments into GIT.
 
 Completed html assignment.
+
+
+Completed CSS assignment.
