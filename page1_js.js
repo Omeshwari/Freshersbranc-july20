@@ -181,7 +181,7 @@ function weightedRange(to, from, decimalPlaces, weightedRange, weightStrength)
 	    weightedRange = 0; 
 	}
 	if (typeof weightStrength === "undefined" || weightStrength === null) { 
-	    weightStrength = 0; 
+	    weightStrength = 30; 
 	}
 
    var ret
